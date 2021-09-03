@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(29, 19, 39, 0.959);
+    text-align: center;
+}
+
+.heading {
+    font-size: 7rem;
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    margin-top: 55px;
+    color: rgb(77, 133, 22);
+}
+
+
+
+.player {
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px;
+    display: inline-block;
+    padding: 10px 25px;
+    color: rgb(77, 133, 22);
+}
+
+
+.dice {
+    padding: 10px 20px;
+}
